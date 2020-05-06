@@ -1,0 +1,8 @@
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_table_leo_model_1.sql" 
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_leo_model_1_insert_function.sql"
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_table_leo_model_2.sql" 
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_leo_model_2_insert_function.sql"
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_table_leo_model_3.sql" 
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\create_leo_model_3_insert_function.sql"
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\build_leo_model.sql"
+"C:\Program Files\PostgreSQL\9.3\bin\psql.exe" -h localhost -U postgres -d ExactData -p 5432 -a -f "C:\Users\techsupport\Desktop\leo_burnett_model\leo_model_ntile.sql"
